@@ -1,0 +1,4 @@
+mouse.c:5:9:processMouseMovement	0	static
+mouse.c:125:6:ProcessMouse	24	static
+mouse.c:193:6:ProcessX_IRQ	16	static
+mouse.c:236:6:ProcessY_IRQ	16	static
