@@ -1,0 +1,13 @@
+2023-02-14 21:13:09,536 [INFO] Activator:179 - 
+
+
+2023-02-14 21:13:09,538 [INFO] Activator:180 - !SESSION log4j initialized
+2023-02-14 21:13:15,058 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-02-14 21:13:15,063 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-02-14 21:13:15,065 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-02-14 21:13:35,795 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-02-14 21:13:35,796 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-02-14 21:13:35,797 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-02-14 21:14:15,331 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-02-14 21:14:15,332 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-02-14 21:14:15,333 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
